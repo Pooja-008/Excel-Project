@@ -12,10 +12,10 @@ Questions:
 8. Highest selling category.
 
 Insights:
-Women are more likely to buy compared to men (65%)
-Maharastra, Karnataka, Uttar Pradesh, Telangana and Tamil Nadu are the top 5 states with maximum sales(35%).
-Women adult age group (30-49 yrs) is maximum contributing the sales(50%).
-Amazon, Myntra and Flipkart are maximum contributing(80%).
+*Women are more likely to buy compared to men (65%)
+*Maharastra, Karnataka, Uttar Pradesh, Telangana and Tamil Nadu are the top 5 states with maximum sales(35%).
+*Women adult age group (30-49 yrs) is maximum contributing the sales(50%).
+*Amazon, Myntra and Flipkart are maximum contributing(80%).
 
 Final Conclusion to improve Vrinda Store Sales:
 Traget women customers of age group (30-49 yrs) living in Maharastra, Karnataka, Uttar Pradesh, Telangana and Tamil Nadu by showing ads/offers/coupons available on Amazon/Myntra/Flipkart.
